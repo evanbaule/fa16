@@ -1,0 +1,4 @@
+#File locations
+#Tue Dec 13 00:23:02 EST 2016
+ExecutableDirectory=C\:/Users/evanb/Desktop/space/cs140/tests/
+SourceDirectory=C\:/Users/evanb/Desktop/space/cs140/tests/
